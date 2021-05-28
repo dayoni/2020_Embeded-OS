@@ -5,7 +5,7 @@ TCP/IP 소켓 프로그래밍을 통한 서버와 클라이언트 소켓 할당,
 § E-mail : <dayonits2@gmail.com>  
 ## Project #1 : 다중 클라이언트 로그인
 ------------
-![Project_#1](https://user-images.githubusercontent.com/68980204/119942646-0cddde80-bfcd-11eb-9a4d-35b57f657892.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119942646-0cddde80-bfcd-11eb-9a4d-35b57f657892.PNG"  width="450" height="350">
   
 	+ Project #1 조직도
   
@@ -21,25 +21,25 @@ TCP/IP 소켓 프로그래밍을 통한 서버와 클라이언트 소켓 할당,
 
 
 + 출력화면  
-![User1_Login](https://user-images.githubusercontent.com/68980204/119944026-bc678080-bfce-11eb-87bb-da674579f465.PNG)  
+<img src="https://user-images.githubusercontent.com/68980204/119944026-bc678080-bfce-11eb-87bb-da674579f465.PNG"  width="700" height="370">
 	- User1 로그인 [Client] && User 로그인 [Server]  
   
   
-![User1+User2_Login](https://user-images.githubusercontent.com/68980204/119943987-afe32800-bfce-11eb-884f-5cb150cc9057.PNG)  
+<img src="https://user-images.githubusercontent.com/68980204/119943987-afe32800-bfce-11eb-884f-5cb150cc9057.PNG"  width="350" height="370"> 
 	- User1, User2 동시 정상 로그인 [Server]  
   
   
-![Log-in_Failed](https://user-images.githubusercontent.com/68980204/119944063-c8ebd900-bfce-11eb-914e-763c159d02a0.PNG)  
+<img src="https://user-images.githubusercontent.com/68980204/119944063-c8ebd900-bfce-11eb-914e-763c159d02a0.PNG"  width="400" height="370">
 	- 로그인 실패 [Server]
   
   
 ## Project #2 : 다중 클라이언트 로그인 + 다중 클라이언트 그룹 채팅
 ------------
-![Project #2](https://user-images.githubusercontent.com/68980204/119944234-f8024a80-bfce-11eb-9c8b-a7d2bbfbaa0b.PNG)  
+<img src="https://user-images.githubusercontent.com/68980204/119944234-f8024a80-bfce-11eb-9c8b-a7d2bbfbaa0b.PNG"  width="700" height="300"> 
 	- Project #2 조직도  
   
   
-![Term #2 Flow chart](https://user-images.githubusercontent.com/68980204/119944748-9d1d2300-bfcf-11eb-9bba-efd17b2e55c4.png)  
+<img src="https://user-images.githubusercontent.com/68980204/119944748-9d1d2300-bfcf-11eb-9bba-efd17b2e55c4.png"  width="800" height="500">
 	- Project #2 플로우차트  
   
   
@@ -57,7 +57,7 @@ Project #2에서 구현하고자 하는 주요 이슈는 <서버와 다중 클�
 클라이언트 간 그룹채팅이 시작되었을 때, 편의를 위해 자신이 보낸 메시지와 다른 클라이언트로부터 받은 메시지의 차이를 두어야하기에 우리는 다른 클라이언트에서 보내온 메시지에 [USERn]을 색깔을 변경하여 붙임으로써 입력모드와 수신모드의 차이를 두었다.
 
 + 출력화면
-![P2_User1+User2_Login](https://user-images.githubusercontent.com/68980204/119945375-52e87180-bfd0-11eb-9182-08ccc9b80d12.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119945375-52e87180-bfd0-11eb-9182-08ccc9b80d12.PNG"  width="600" height="370">
   
   
   
@@ -66,7 +66,7 @@ Project #2에서 구현하고자 하는 주요 이슈는 <서버와 다중 클�
 	+ User1, User2 동시 정상 로그인
   
   
-![P2_Chating_Mode](https://user-images.githubusercontent.com/68980204/119945392-5b40ac80-bfd0-11eb-9247-fa1980ccc59c.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119945392-5b40ac80-bfd0-11eb-9247-fa1980ccc59c.PNG"  width="600" height="370">
   
   
   
@@ -75,7 +75,7 @@ Project #2에서 구현하고자 하는 주요 이슈는 <서버와 다중 클�
 	+ 채팅모드 진입
   
   
-![P2_Chating_Mode2](https://user-images.githubusercontent.com/68980204/119945422-6693d800-bfd0-11eb-9f9e-fb718f7fc288.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119945422-6693d800-bfd0-11eb-9f9e-fb718f7fc288.PNG"  width="600" height="370">
   
   
   
@@ -84,7 +84,7 @@ Project #2에서 구현하고자 하는 주요 이슈는 <서버와 다중 클�
 	+ 채팅모드 활성화
   
   
-![P2_Chating_Mode+theEnd](https://user-images.githubusercontent.com/68980204/119945441-6d224f80-bfd0-11eb-8c6b-c038bee343ba.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119945441-6d224f80-bfd0-11eb-8c6b-c038bee343ba.PNG"  width="600" height="370">
   
   
   
@@ -95,10 +95,10 @@ Project #2에서 구현하고자 하는 주요 이슈는 <서버와 다중 클�
   
 ## Project #3 : 다중 클라이언트 로그인 + 다중 클라이언트 그룹 채팅
 ------------
-![Project #3](https://user-images.githubusercontent.com/68980204/119946009-18cb9f80-bfd1-11eb-9553-c7ad37b96401.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119946009-18cb9f80-bfd1-11eb-9553-c7ad37b96401.PNG"  width="700" height="300">
 	+ Project #2 조직도  
   
-![Term #3 Flow Chart](https://user-images.githubusercontent.com/68980204/119946032-2123da80-bfd1-11eb-8f78-98563b51514b.png)
+<img src="https://user-images.githubusercontent.com/68980204/119946032-2123da80-bfd1-11eb-8f78-98563b51514b.png"  width="700" height="700">
 	+ Project #2 플로우차트  
   
 
@@ -117,7 +117,7 @@ Project #3에서 구현하고자 하는 주요 이슈는 클라이언트 간 P2P
 클라이언트 간 그룹채팅이 시작되었을 때, 편의를 위해 자신이 보낸 메시지와 다른 클라이언트로부터 받은 메시지의 차이를 두어야하기에 우리는 다른 클라이언트에서 보내온 메시지에 [USERn]을 색깔을 변경하여 붙임으로써 입력모드와 수신모드의 차이를 두었다.
 
 + 출력화면
-![P3_File List](https://user-images.githubusercontent.com/68980204/119947468-bbd0e900-bfd2-11eb-8d1f-b55bd8780ba1.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119947468-bbd0e900-bfd2-11eb-8d1f-b55bd8780ba1.PNG"  width="600" height="370">
   
   
   
@@ -126,7 +126,7 @@ Project #3에서 구현하고자 하는 주요 이슈는 클라이언트 간 P2P
 	+ 파일 리스트 받아오기
   
   
-![P3_File send](https://user-images.githubusercontent.com/68980204/119947505-c55a5100-bfd2-11eb-95c2-73a16217d6cb.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119947505-c55a5100-bfd2-11eb-95c2-73a16217d6cb.PNG"  width="600" height="370">
   
   
   
@@ -135,7 +135,7 @@ Project #3에서 구현하고자 하는 주요 이슈는 클라이언트 간 P2P
 	+ 파일 전송
   
   
-![P3_File send+Chating](https://user-images.githubusercontent.com/68980204/119947520-cab79b80-bfd2-11eb-8fdd-d8829c4b0315.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119947520-cab79b80-bfd2-11eb-8fdd-d8829c4b0315.PNG"  width="600" height="370">
   
   
   
@@ -144,8 +144,8 @@ Project #3에서 구현하고자 하는 주요 이슈는 클라이언트 간 P2P
 	+ 파일 전송 후 채팅
   
   
-![P3_Chating_Mode+theEnd](https://user-images.githubusercontent.com/68980204/119947563-da36e480-bfd2-11eb-88ef-139e0385e718.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119947563-da36e480-bfd2-11eb-88ef-139e0385e718.PNG"  width="600" height="370">
 	+ 채팅 종료
 
-![P3_sendFIleCheck](https://user-images.githubusercontent.com/68980204/119947539-d1461300-bfd2-11eb-8469-db78b09f5e98.PNG)
+<img src="https://user-images.githubusercontent.com/68980204/119947539-d1461300-bfd2-11eb-8469-db78b09f5e98.PNG"  width="600" height="370">
 	+ 받은 파일 확인

@@ -20,7 +20,7 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 ## Project #1 : 다중 클라이언트 로그인
 ------------
-[Project#1](./Project_#1)  
+[Project#1](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%231)  
 <img src="https://user-images.githubusercontent.com/68980204/119942646-0cddde80-bfcd-11eb-9a4d-35b57f657892.PNG"  width="450" height="350">
 
 
@@ -64,7 +64,7 @@ __📥 E-mail : <dayonits2@gmail.com>__
   
 ## Project #2 : 다중 클라이언트 로그인 + 다중 클라이언트 그룹 채팅
 ------------
-[Project#2](./Project_#2)  
+[Project#2](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%232)  
 <img src="https://user-images.githubusercontent.com/68980204/119944234-f8024a80-bfce-11eb-9c8b-a7d2bbfbaa0b.PNG"  width="700" height="300">  
 
 
@@ -141,7 +141,7 @@ Project #2에서 구현하고자 하는 주요 이슈는 <서버와 다중 클�
   
 ## Project #3 : 다중 클라이언트 로그인 + 다중 클라이언트 그룹 채팅 + P2P 파일전송
 ------------
-[Project#3](./Project_#3)  
+[Project#3](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%233)  
 <img src="https://user-images.githubusercontent.com/68980204/119946009-18cb9f80-bfd1-11eb-9553-c7ad37b96401.PNG"  width="700" height="300">
 
 

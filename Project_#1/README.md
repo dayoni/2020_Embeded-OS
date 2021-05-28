@@ -2,7 +2,7 @@
 ------------
 * __개발환경 및 컴파일러__  
 |개발환경|Ubuntu 16.04.3 LTS (GNU/Linux 4.10.0-28-generic x86_64)|  
-|:---:|:---:|   
+|:----:|:----:|   
 |컴파일러|p1_client1 -> gcc -o p1_client p1_client.c|  
 ||p1_server.c -> gcc -o p1_server p1_server.c|  
 

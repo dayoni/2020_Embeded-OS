@@ -86,6 +86,8 @@ Project #2에서 구현하고자 하는 주요 이슈는 <서버와 다중 클�
 
 
 </br>
+
+
 + __출력화면__  
 <img src="https://user-images.githubusercontent.com/68980204/119945375-52e87180-bfd0-11eb-9182-08ccc9b80d12.PNG"  width="600" height="370">
 

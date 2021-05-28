@@ -1,3 +1,12 @@
+# Embeded-OS
+------------
+* __개발환경 및 컴파일러__  
+	+ 개발환경 : Ubuntu 16.04.3 LTS (GNU/Linux 4.10.0-28-generic x86_64)  
+	+ 컴파일러
+		+ p3_client1.c -> gcc -o p3_client1 p3_client1.c -lpthread  
+		+ p3_client2.c -> gcc -o p3_client2 p3_client2.c -lpthread  
+		+ p3_server.c -> gcc -o p3_server p3_server.c -lpthread  
+
 * TCP/IP 소켓 프로그래밍을 통한 서버와 클라이언트 소켓 할당  
 * 다중 클라이언트 사이의 그룹 채팅  
 * __클라이언트 간 P2P 파일 전송__  
@@ -92,10 +101,3 @@ Project #3에서 구현하고자 하는 주요 이슈는 클라이언트 간 P2P
 
 	▷ 받은 파일 확인
 
-
-* __개발환경 및 컴파일러__  
-|:---:|:---:|
-|개발환경|Ubuntu 16.04.3 LTS (GNU/Linux 4.10.0-28-generic x86_64)|
-|컴파일러|p3_server.c ->  gcc –o p3_server p3_server.c –lpthread|
-||p3_client1.c-> gcc –o p3_client1 p3_client1.c –lpthread|
-||p3_client2.c-> gcc –o p3_client2 p3_client2.c –lpthread|

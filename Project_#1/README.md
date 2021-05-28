@@ -1,4 +1,4 @@
-## Embeded-OS
+# Embeded-OS
 ------------
 * __개발환경 및 컴파일러__  
 	+ 개발환경 : Ubuntu 16.04.3 LTS (GNU/Linux 4.10.0-28-generic x86_64)  

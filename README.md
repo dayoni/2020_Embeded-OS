@@ -3,8 +3,6 @@
 TCP/IP 소켓 프로그래밍을 통한 서버와 클라이언트 소켓 할당, 다중 클라이언트 사이의 그룹 채팅과 P2P 파일 전송 등의 소스 코드와 함께 전체 프로세스 설명이 포함되어 있습니다.
 프로젝트에 대한 질문은 언제나 환영입니다!  
 § E-mail : <dayonits2@gmail.com>  
-  
-  
 ## Project #1 : 다중 클라이언트 로그인
 ------------
 ![Project_#1](https://user-images.githubusercontent.com/68980204/119942646-0cddde80-bfcd-11eb-9a4d-35b57f657892.PNG)
@@ -20,45 +18,30 @@ TCP/IP 소켓 프로그래밍을 통한 서버와 클라이언트 소켓 할당,
 	+ 서버는 수신받은 IP와 PW를 미리 등록된 ID와 PW와 비교 후 성공/실패 여부를 반환한다.
 	+ 클라이언트는 서버로부터 받은 로그인 결과를 출력한다.
 	+ 모든 단계에서 서버는 다중 클라이언트로부터의 요청을 개별적으로 처리 가능해야 한다.
-  
 
-+ 출력화면
-![User1_Login](https://user-images.githubusercontent.com/68980204/119944026-bc678080-bfce-11eb-87bb-da674579f465.PNG)
+
++ 출력화면  
+![User1_Login](https://user-images.githubusercontent.com/68980204/119944026-bc678080-bfce-11eb-87bb-da674579f465.PNG)  
+	- User1 로그인 [Client] && User 로그인 [Server]  
   
   
+![User1+User2_Login](https://user-images.githubusercontent.com/68980204/119943987-afe32800-bfce-11eb-884f-5cb150cc9057.PNG)  
+	- User1, User2 동시 정상 로그인 [Server]  
   
   
-  
-	- User1 로그인 [Client] && User 로그인 [Server]
-  
-  
-![User1+User2_Login](https://user-images.githubusercontent.com/68980204/119943987-afe32800-bfce-11eb-884f-5cb150cc9057.PNG)
-  
-  
-  
-  
-  
-	- User1, User2 동시 정상 로그인 [Server]
-  
-  
-![Log-in_Failed](https://user-images.githubusercontent.com/68980204/119944063-c8ebd900-bfce-11eb-914e-763c159d02a0.PNG)
-  
-  
-  
-  
-  
+![Log-in_Failed](https://user-images.githubusercontent.com/68980204/119944063-c8ebd900-bfce-11eb-914e-763c159d02a0.PNG)  
 	- 로그인 실패 [Server]
   
   
 ## Project #2 : 다중 클라이언트 로그인 + 다중 클라이언트 그룹 채팅
 ------------
-![Project #2](https://user-images.githubusercontent.com/68980204/119944234-f8024a80-bfce-11eb-9c8b-a7d2bbfbaa0b.PNG)
-	- Project #2 조직도
+![Project #2](https://user-images.githubusercontent.com/68980204/119944234-f8024a80-bfce-11eb-9c8b-a7d2bbfbaa0b.PNG)  
+	- Project #2 조직도  
   
   
-![Term #2 Flow chart](https://user-images.githubusercontent.com/68980204/119944748-9d1d2300-bfcf-11eb-9bba-efd17b2e55c4.png)
-	- Project #2 플로우차트
-    
+![Term #2 Flow chart](https://user-images.githubusercontent.com/68980204/119944748-9d1d2300-bfcf-11eb-9bba-efd17b2e55c4.png)  
+	- Project #2 플로우차트  
+  
   
 Project #2는 지난 Project #1 의 <서버 – 클라이언트 모델>에 의한 로그인이 완료된 이후 다중 클라이언트의 로그인을 허용하여 클라이언트간의 그룹채팅이 가능하도록 구현하는 것이 주된 이슈이다.
 따라서 Project #1에서 주로 다루었던 로그인 관련 코드와 알고리즘의 설명은 간결하게 끝내고, 추가된 Project #2와 관련하여 자세하게 설명할 것이다.

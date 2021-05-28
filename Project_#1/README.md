@@ -1,3 +1,11 @@
+## Embeded-OS
+------------
+* __개발환경 및 컴파일러__  
+|:---:|:---:|  
+|개발환경|Ubuntu 16.04.3 LTS (GNU/Linux 4.10.0-28-generic x86_64)|  
+|컴파일러|p1_client1 -> gcc -o p1_client p1_client.c|  
+||p1_server.c -> gcc -o p1_server p1_server.c|  
+
 * __TCP/IP 소켓 프로그래밍을 통한 서버와 클라이언트 소켓 할당__  
 * 다중 클라이언트 사이의 그룹 채팅  
 * 클라이언트 간 P2P 파일 전송  
@@ -55,8 +63,4 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 
 
-* __개발환경 및 컴파일러__  
-|:---:|:---:|
-|개발환경|Ubuntu 16.04.3 LTS (GNU/Linux 4.10.0-28-generic x86_64)|
-|컴파일러|p1_client1 -> gcc -o p1_client p1_client.c|
-||p1_server.c -> gcc -o p1_server p1_server.c|
+

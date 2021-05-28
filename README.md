@@ -3,12 +3,11 @@
 TCP/IP 소켓 프로그래밍을 통한 서버와 클라이언트 소켓 할당, 다중 클라이언트 사이의 그룹 채팅과 P2P 파일 전송 등의 소스 코드와 함께 전체 프로세스 설명이 포함되어 있습니다.
 프로젝트에 대한 질문은 언제나 환영입니다!  
 § E-mail : <dayonits2@gmail.com>  
-## Project #1 : 다중 클라이언트 로그인
+## Project #1 : 다중 클라이언트 로그인  
+
 ------------
 <img src="https://user-images.githubusercontent.com/68980204/119942646-0cddde80-bfcd-11eb-9a4d-35b57f657892.PNG"  width="450" height="350">
-  
 	+ Project #1 조직도
-  
 
 + 조건
 	+ 클라이언트는 서버의 IP주소와 Port 번호를 가지고 소켓 인터페이스를 이용하여 서버에 접속한다.
@@ -23,16 +22,13 @@ TCP/IP 소켓 프로그래밍을 통한 서버와 클라이언트 소켓 할당,
 + 출력화면  
 <img src="https://user-images.githubusercontent.com/68980204/119944026-bc678080-bfce-11eb-87bb-da674579f465.PNG"  width="700" height="370">
 	- User1 로그인 [Client] && User 로그인 [Server]  
-  
-  
+
 <img src="https://user-images.githubusercontent.com/68980204/119943987-afe32800-bfce-11eb-884f-5cb150cc9057.PNG"  width="350" height="370"> 
 	- User1, User2 동시 정상 로그인 [Server]  
-  
-  
+
 <img src="https://user-images.githubusercontent.com/68980204/119944063-c8ebd900-bfce-11eb-914e-763c159d02a0.PNG"  width="400" height="370">
 	- 로그인 실패 [Server]
-  
-  
+
 ## Project #2 : 다중 클라이언트 로그인 + 다중 클라이언트 그룹 채팅
 ------------
 <img src="https://user-images.githubusercontent.com/68980204/119944234-f8024a80-bfce-11eb-9c8b-a7d2bbfbaa0b.PNG"  width="700" height="300"> 
@@ -58,38 +54,18 @@ Project #2에서 구현하고자 하는 주요 이슈는 <서버와 다중 클�
 
 + 출력화면
 <img src="https://user-images.githubusercontent.com/68980204/119945375-52e87180-bfd0-11eb-9182-08ccc9b80d12.PNG"  width="600" height="370">
-  
-  
-  
-  
-  
 	+ User1, User2 동시 정상 로그인
   
   
 <img src="https://user-images.githubusercontent.com/68980204/119945392-5b40ac80-bfd0-11eb-9247-fa1980ccc59c.PNG"  width="600" height="370">
-  
-  
-  
-  
-  
 	+ 채팅모드 진입
   
   
 <img src="https://user-images.githubusercontent.com/68980204/119945422-6693d800-bfd0-11eb-9f9e-fb718f7fc288.PNG"  width="600" height="370">
-  
-  
-  
-  
-  
 	+ 채팅모드 활성화
   
   
 <img src="https://user-images.githubusercontent.com/68980204/119945441-6d224f80-bfd0-11eb-8c6b-c038bee343ba.PNG"  width="600" height="370">
-  
-  
-  
-  
-  
 	+ 채팅 종료
   
   
@@ -118,34 +94,17 @@ Project #3에서 구현하고자 하는 주요 이슈는 클라이언트 간 P2P
 
 + 출력화면
 <img src="https://user-images.githubusercontent.com/68980204/119947468-bbd0e900-bfd2-11eb-8d1f-b55bd8780ba1.PNG"  width="600" height="370">
-  
-  
-  
-  
-  
 	+ 파일 리스트 받아오기
   
   
 <img src="https://user-images.githubusercontent.com/68980204/119947505-c55a5100-bfd2-11eb-95c2-73a16217d6cb.PNG"  width="600" height="370">
-  
-  
-  
-  
-  
 	+ 파일 전송
   
-  
 <img src="https://user-images.githubusercontent.com/68980204/119947520-cab79b80-bfd2-11eb-8fdd-d8829c4b0315.PNG"  width="600" height="370">
-  
-  
-  
-  
-  
 	+ 파일 전송 후 채팅
-  
   
 <img src="https://user-images.githubusercontent.com/68980204/119947563-da36e480-bfd2-11eb-88ef-139e0385e718.PNG"  width="600" height="370">
 	+ 채팅 종료
-
+  
 <img src="https://user-images.githubusercontent.com/68980204/119947539-d1461300-bfd2-11eb-8469-db78b09f5e98.PNG"  width="600" height="370">
 	+ 받은 파일 확인

@@ -1,10 +1,6 @@
 </br>
 
 
-</br>
-
-
-  
  # 2020_Embeded-OS
 본 프로젝트는 한국산업기술대학교 전자공학부 임베디드 시스템 전공 학부과정 중 수강한 Embeded-OS 프로젝트를 담고 있습니다.  
 
@@ -31,7 +27,6 @@ __📥 E-mail : <dayonits2@gmail.com>__
 </br>
   
   
-
 </br>
 
 
@@ -65,14 +60,16 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 
   
-  </br>
+</br>
+
+
+</br>
 
 
 </br>
 
 
 </br>
-  </br>
 
 
 </br>
@@ -107,7 +104,8 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 </br>
   
-  </br>
+
+</br>
 
 
 </br>
@@ -132,7 +130,7 @@ __📥 E-mail : <dayonits2@gmail.com>__
 	▷ Project #3 플로우차트  
 
   
-  </br>
+</br>
 
 
 </br>

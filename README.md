@@ -18,7 +18,7 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 
 
-## Project #1 : 다중 클라이언트 로그인  
+## [Project #1 : 다중 클라이언트 로그인](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%231)  
 ------------
 <img src="https://user-images.githubusercontent.com/68980204/119942646-0cddde80-bfcd-11eb-9a4d-35b57f657892.PNG"  width="450" height="350">
 

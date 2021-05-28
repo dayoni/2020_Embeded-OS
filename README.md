@@ -1,4 +1,11 @@
-# 2020_Embeded-OS
+</br>
+
+
+</br>
+
+
+  
+ # 2020_Embeded-OS
 본 프로젝트는 한국산업기술대학교 전자공학부 임베디드 시스템 전공 학부과정 중 수강한 Embeded-OS 프로젝트를 담고 있습니다.  
 
 
@@ -15,7 +22,15 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 
 
+</br>
 
+
+</br>
+
+
+</br>
+  
+  
 
 </br>
 
@@ -57,6 +72,14 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 
 </br>
+  </br>
+
+
+</br>
+
+
+</br>
+  
   
   
 ## [Project #2](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%232) : 다중 클라이언트 로그인 + 다중 클라이언트 그룹 채팅 
@@ -84,6 +107,14 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 </br>
   
+  </br>
+
+
+</br>
+
+
+</br>
+  
   
 ## [Project #3](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%233) : 다중 클라이언트 로그인 & 그룹 채팅 + P2P 파일전송 
 ------------
@@ -100,5 +131,13 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 	▷ Project #3 플로우차트  
 
+  
+  </br>
+
+
+</br>
+
+
+</br>
   
   

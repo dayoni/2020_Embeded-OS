@@ -17,7 +17,15 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 
 
+</br>
 
+
+</br>
+
+
+</br>
+  
+  
 ## [Project #1](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%231) : 다중 클라이언트 로그인 
 ------------
 <img src="https://user-images.githubusercontent.com/68980204/119942646-0cddde80-bfcd-11eb-9a4d-35b57f657892.PNG"  width="450" height="350">
@@ -42,6 +50,14 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 
   
+  </br>
+
+
+</br>
+
+
+</br>
+  
   
 ## [Project #2](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%232) : 다중 클라이언트 로그인 + 다중 클라이언트 그룹 채팅 
 ------------
@@ -60,9 +76,16 @@ __📥 E-mail : <dayonits2@gmail.com>__
 
 
 
+</br>
+
+
+</br>
+
+
+</br>
   
   
-## [Project #3](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%233) : 다중 클라이언트 로그인 + 다중 클라이언트 그룹 채팅 + P2P 파일전송 
+## [Project #3](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%233) : 다중 클라이언트 로그인 & 그룹 채팅 + P2P 파일전송 
 ------------
 <img src="https://user-images.githubusercontent.com/68980204/119946009-18cb9f80-bfd1-11eb-9553-c7ad37b96401.PNG"  width="700" height="300">
 

@@ -141,7 +141,7 @@ Project #2에서 구현하고자 하는 주요 이슈는 <서버와 다중 클�
   
 ## Project #3 : 다중 클라이언트 로그인 + 다중 클라이언트 그룹 채팅 + P2P 파일전송
 ------------
-[Project#3](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%233)  
+##[Project#3](https://github.com/dayoni/2020_Embeded-OS/tree/main/Project_%233)  
 <img src="https://user-images.githubusercontent.com/68980204/119946009-18cb9f80-bfd1-11eb-9553-c7ad37b96401.PNG"  width="700" height="300">
 
 
